@@ -1,5 +1,4 @@
-## MetrixSDK Android Sample
-[ ![Download](https://api.bintray.com/packages/metrixorg/maven/PushMetrix/images/download.svg) ](https://bintray.com/metrixorg/maven/PushMetrix/_latestVersion)
+
 <div dir="rtl">
 
   پروژه نمونه اندروید sdk پوش‌متریکس، اطلاعات بیشتر در [متریکس](https://metrix.ir).
